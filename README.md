@@ -1,7 +1,8 @@
 <h1 align="center"> # ChallengeAmigoSecreto </h1>
 Juego para elegir amigo secreto
 En este juego, puedes agregar diferentes nombres y se eligirá de manera aleatoria uno, el cual será "TU AMIGO SECRETO"
-[Inicio](https://github.com/user-attachments/assets/96b1605b-b6e0-4d16-8d0d-ae870685d841)
+
+![Inicio](https://github.com/user-attachments/assets/96b1605b-b6e0-4d16-8d0d-ae870685d841)
 Escribe los nombres de cada uno de tus amigos
 ![Lista de Amigos](https://github.com/user-attachments/assets/0eb1e208-e938-47dd-8c89-1a1ae358b307)
 Irán apareciendo en una lista y cuando finalices
